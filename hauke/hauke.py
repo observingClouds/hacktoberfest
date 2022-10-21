@@ -1,3 +1,3 @@
 def sum(a, b):
-   c = a+b
-   return c
+    c = a + b
+    return c
